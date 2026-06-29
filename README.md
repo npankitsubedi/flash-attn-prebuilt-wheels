@@ -2,12 +2,6 @@
 
 > **Pre-compiled [Flash Attention](https://github.com/Dao-AILab/flash-attention) wheels built from source on Google Colab (NVIDIA L4 GPU) — skip the 45-minute build and install in seconds.**
 
-[
-[
-[
-[
-[
-
 ***
 
 ## 🤔 Why This Exists
